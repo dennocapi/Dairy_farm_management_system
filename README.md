@@ -3,7 +3,7 @@ This is an app designed to enable a farmer keep track of all activities of their
 It can be customized to meet farmer preference.
 A record of all ongoing activities in the farm are recorded on a daily basis by the farm manager or supervisor.
 The system is important in planning and analysis of farm performance.
-The current system provides the following tools to the farmer:
+The current system provides the following tools to the farmer->
 Cow profile:
 This section contains animal profile identity in the dairy farm with its background information
 The information displayed in this section includes Cow name, date of birth,Mother, health status and milk production.
